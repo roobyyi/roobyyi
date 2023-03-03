@@ -29,4 +29,4 @@ You can reach me in any social media here:
 
 I may be not a genius, but if i want to know something, i will gather information from anywhere until i accidentally said "Ohhhhhhh".
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roobyyi)](https://github.com/anuraghazra/github-readme-stats)
