@@ -2,7 +2,7 @@
 
 Welcome to my Data Scientist portfolio! I am indeed a newcomer into Data Scientist Field, however i am excited to see how i've grown in the future. 😁
 
-I am currently a Student at Practicum Bootcamp Indonesia taking the field of Data Scientist.
+I am now graduated from TripleTen Bootcamp and still in Jobseeking Phase.
 
 # Skills
 - Proficiency in Python, and SQL for Data Manipulation and Data Analysis.
